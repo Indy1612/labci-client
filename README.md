@@ -27,3 +27,4 @@ also, make sure secret variables are configured in your repository:
 - PROJECT_ID: gcp project ID. Warning: this is not the same as the project name...
 
 Dit kan worden toegevoegd en aangepast op github onder 'settings -> secrets -> add secret/update secret'.
+Test push
