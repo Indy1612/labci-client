@@ -26,4 +26,6 @@ also, make sure secret variables are configured in your repository:
 - IMAGE_URL: url of the image that should be used as background image. Warning: make sure CORS is configured...
 - PROJECT_ID: gcp project ID. Warning: this is not the same as the project name...
 
+[Indy]
 Dit kan worden toegevoegd en aangepast op github onder 'settings -> secrets -> add secret/update secret'.
+Om de build actions uit te voeren enable actions in het 'actions'-tab.
